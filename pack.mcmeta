@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "sideshowpowers_tessermade",
+        "pack_format": 15,
+        "description": "i made this for me and some freinds because i wanted to make a show hopefully i will",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "tesserthearticfox"
+    ],
+    "environment": "*",
+    "id": "sideshowpowers_tessermade",
+    "version": "1.0.0",
+    "name": "sideshow powers",
+    "description": "i made this for me and some freinds because i wanted to make a show hopefully i will",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}
